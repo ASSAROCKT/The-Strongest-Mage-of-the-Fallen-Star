@@ -12,11 +12,17 @@
   ],
   "status": "Ongoing",
   "chapters": {
- "chapter-1.1": {
+ "chapter-0": {
       "volume": "1",
-      "title": "I Am to Be Jilted(1)",
-      "last_updated": 1754651965971,
-      "url": "ch1p1.mdx"
+      "title": "Illustration",
+      "last_updated": 1754664491229,
+      "url": "ch0.mdx"
+    },
+"chapter-0.1": {
+      "volume": "1",
+      "title": "Illustration",
+      "last_updated": 1754664491229,
+      "url": "ch0p1.mdx"
     }
   }
 }
